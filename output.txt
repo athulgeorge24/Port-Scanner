@@ -1,0 +1,4 @@
+$ bash port_scanner.sh scanme.nmap.org 20 85
+Scanning scanme.nmap.org from port 20 to 85...
+Port 22 is OPEN
+Done!
